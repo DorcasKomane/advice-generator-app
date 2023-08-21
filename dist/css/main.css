@@ -57,6 +57,17 @@
   padding: 2px;
 }
 
+.credits {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, 300%);
+}
+.credits p {
+  font-size: small;
+  color: hsl(193, 38%, 86%);
+}
+
 body {
   font-family: "Manrope", sans-serif;
   font-size: 28px;

@@ -1,0 +1,11 @@
+.credits {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, 300%);
+    
+    p {
+        font-size: small;
+        color: $primary-light-cyan;
+    }
+}
