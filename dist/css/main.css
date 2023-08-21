@@ -38,9 +38,11 @@
 .advice__divider img {
   max-width: 480px;
 }
-.advice__dice {
+.advice button {
   width: 40px;
   height: 40px;
+  border: none;
+  outline: none;
   border-radius: 50%;
   background: hsl(150, 100%, 66%);
   display: flex;
@@ -52,9 +54,12 @@
   top: 100%;
   transform: translate(-50%, -50%);
 }
-.advice__dice img {
+.advice button img {
   max-width: 20px;
   padding: 2px;
+}
+.advice button:hover {
+  filter: drop-shadow(0 0 10px hsl(150, 100%, 66%));
 }
 @media screen and (max-width: 375px) {
   .advice {
