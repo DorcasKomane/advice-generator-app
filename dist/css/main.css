@@ -20,6 +20,7 @@
 }
 .advice__heading {
   font-size: 6px;
+  font-weight: 400;
   text-transform: uppercase;
   color: hsl(150, 100%, 66%);
   letter-spacing: 2px;
@@ -66,7 +67,7 @@
     max-width: 400px;
   }
   .advice__quote-text p {
-    font-size: 18px;
+    font-size: 20px;
   }
   .advice__divider img {
     max-width: 280px;
@@ -80,7 +81,11 @@
   transform: translate(-50%, 300%);
 }
 .credits p {
-  font-size: small;
+  font-size: 12px;
+  font-weight: 400;
+  color: hsl(193, 38%, 86%);
+}
+.credits a {
   color: hsl(193, 38%, 86%);
 }
 

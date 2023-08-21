@@ -5,7 +5,12 @@
     transform: translate(-50%, 300%);
     
     p {
-        font-size: small;
+        font-size: 12px;
+        font-weight: 400;
+        color: $primary-light-cyan;
+    }
+
+    a {
         color: $primary-light-cyan;
     }
 }
