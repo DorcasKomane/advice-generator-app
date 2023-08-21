@@ -1,0 +1,22 @@
+.advice {
+    max-width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: $neutral-dark-grayish-blue;
+    border-radius: 15px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &__heading {
+        font-size: 8px;
+        text-transform: uppercase;
+        color: $primary-neon-green;
+    }
+
+}
+
