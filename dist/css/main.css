@@ -5,22 +5,35 @@
 }
 
 .advice {
-  max-width: 500px;
+  max-width: 550px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: hsl(217, 19%, 24%);
   border-radius: 15px;
+  padding: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .advice__heading {
-  font-size: 8px;
+  font-size: 6px;
   text-transform: uppercase;
   color: hsl(150, 100%, 66%);
+  letter-spacing: 2px;
+}
+.advice__quote-text p {
+  font-size: 28px;
+  text-align: center;
+  color: hsl(193, 38%, 86%);
+  letter-spacing: 1px;
+  font-weight: 800;
+  padding: 20px 0;
+}
+.advice__divider img {
+  max-width: 480px;
 }
 
 body {

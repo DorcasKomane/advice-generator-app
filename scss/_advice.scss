@@ -1,11 +1,12 @@
 .advice {
-    max-width: 500px;
+    max-width: 550px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: $neutral-dark-grayish-blue;
     border-radius: 15px;
+    padding: 20px;
 
     display: flex;
     flex-direction: column;
@@ -13,9 +14,28 @@
     align-items: center;
 
     &__heading {
-        font-size: 8px;
+        font-size: 6px;
         text-transform: uppercase;
         color: $primary-neon-green;
+        letter-spacing: 2px;
+        // font-weight: 400;
+    }
+
+    &__quote-text {
+        p {
+            font-size: 28px;
+            text-align: center;
+            color: $primary-light-cyan;
+            letter-spacing: 1px;
+            font-weight: 800;
+            padding: 20px 0;
+        }
+    }
+
+    &__divider {
+        img {
+            max-width: 480px;
+        }
     }
 
 }
