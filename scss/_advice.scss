@@ -6,7 +6,7 @@
     transform: translate(-50%, -50%);
     background-color: $neutral-dark-grayish-blue;
     border-radius: 15px;
-    padding: 20px;
+    padding: 30px 20px;
 
     display: flex;
     flex-direction: column;
@@ -33,10 +33,32 @@
     }
 
     &__divider {
+        margin-bottom: 20px;
+
         img {
             max-width: 480px;
         }
     }
 
+    &__dice {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: $primary-neon-green; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        position: absolute;
+        left: 50%;
+        top: 100%;
+        transform: translate(-50%, -50%);
+         
+        img {
+            max-width: 20px;
+            padding: 2px;
+        }  
+    }
 }
 
