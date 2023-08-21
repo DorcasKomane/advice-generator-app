@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-size: 28px;
+  background-color: hsl(218, 23%, 16%);
+}/*# sourceMappingURL=main.css.map */
