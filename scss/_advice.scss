@@ -60,5 +60,21 @@
             padding: 2px;
         }  
     }
+
+    @media screen and (max-width:375px) {
+       max-width: 400px;
+        &__quote-text {
+            p {
+                font-size: 18px;
+            }
+        }
+
+        &__divider {
+    
+            img {
+                max-width: 280px;
+            }
+        }
+    }
 }
 

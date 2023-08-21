@@ -56,6 +56,17 @@
   max-width: 20px;
   padding: 2px;
 }
+@media screen and (max-width: 375px) {
+  .advice {
+    max-width: 400px;
+  }
+  .advice__quote-text p {
+    font-size: 18px;
+  }
+  .advice__divider img {
+    max-width: 280px;
+  }
+}
 
 .credits {
   position: absolute;
