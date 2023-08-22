@@ -14,9 +14,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -56,13 +53,22 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-- How to use **fetch()** to interact with an **API**.
+- Working with the [**Advice Slip JSON API**](https://api.adviceslip.com)
+- How to use **fetch()** to interact with an **API**
 - How to use **async / await**
 - How to use **try/catch** when interacting with an API
+- How to access object properties
+- How to manipulate HTML elements using JavaScript
+- How to create a glowing effect around a button
 
 ### Continued development
 
 - This was not my first project interacting with an API, but I would still like to work on more projects of varying complexity, for a better understanding of how APIs work.
+
+### Useful resources
+
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 

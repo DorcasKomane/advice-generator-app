@@ -84,6 +84,8 @@
   font-size: 12px;
   font-weight: 400;
   color: hsl(193, 38%, 86%);
+  letter-spacing: 1px;
+  width: 100%;
 }
 .credits a {
   color: hsl(193, 38%, 86%);
