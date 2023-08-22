@@ -29,18 +29,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- View solution code [here](https://github.com/DorcasKomane/advice-generator-app){:target="_blank"}
+- View live solution [here](https://your-live-site-url.com){:target="_blank"}
 
 ## My process
 
@@ -53,9 +46,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-- Working with the [**Advice Slip JSON API**](https://api.adviceslip.com)
+- Working with the [Advice Slip JSON API](https://api.adviceslip.com){:target="_blank"}
 - How to use **fetch()** to interact with an **API**
-- How to use **async / await**
+- How to use **async/await**
 - How to use **try/catch** when interacting with an API
 - How to access object properties
 - How to manipulate HTML elements using JavaScript
@@ -65,13 +58,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - This was not my first project interacting with an API, but I would still like to work on more projects of varying complexity, for a better understanding of how APIs work.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Website - [Dorcas Komane](https://dorcas-portfolio-site.netlify.app/)
-- Frontend Mentor - [@DorcasKomane](https://www.frontendmentor.io/profile/DorcasKomane)
-- Twitter - [@DorcasInTech](https://www.twitter.com/DorcasInTech)
+- Website - [Dorcas Komane](https://dorcas-portfolio-site.netlify.app/){:target="_blank"}
+- Frontend Mentor - [@DorcasKomane](https://www.frontendmentor.io/profile/DorcasKomane){:target="_blank"}
+- Twitter - [@DorcasInTech](https://www.twitter.com/DorcasInTech){:target="_blank"}
