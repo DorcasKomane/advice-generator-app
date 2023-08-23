@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/dist/screenshots/advice-app-desktop.png)
-![](/dist/screenshots/advice-app-mobile.png)
+![](/dist/images/advice-generator-desktop.png)
 
 
 ### Links
