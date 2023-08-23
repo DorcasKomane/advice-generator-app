@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - View solution code [here](https://github.com/DorcasKomane/advice-generator-app){:target="_blank"}
-- View live solution [here](https://your-live-site-url.com){:target="_blank"}
+- View live solution [here](https://fe-advice-generator.netlify.app){:target="_blank"}
 
 ## My process
 
