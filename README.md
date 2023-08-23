@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://ibb.co/4KYNP5N)
-![](https://ibb.co/KV7vmvh)
+![](/dist/screenshots/advice-app-desktop.png)
+![](/dist/screenshots/advice-app-mobile.png)
 
 
 ### Links
