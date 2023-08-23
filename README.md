@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- View solution code [here](https://github.com/DorcasKomane/advice-generator-app){:target="_blank"}
-- View live solution [here](https://fe-advice-generator.netlify.app){:target="_blank"}
+- View solution code [here](https://github.com/DorcasKomane/advice-generator-app)
+- View live solution [here](https://fe-advice-generator.netlify.app)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-- Working with the [Advice Slip JSON API](https://api.adviceslip.com){:target="_blank"}
+- Working with the [Advice Slip JSON API](https://api.adviceslip.com)
 - How to use **fetch()** to interact with an **API**
 - How to use **async/await**
 - How to use **try/catch** when interacting with an API
@@ -59,6 +59,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Dorcas Komane](https://dorcas-portfolio-site.netlify.app/){:target="_blank"}
-- Frontend Mentor - [@DorcasKomane](https://www.frontendmentor.io/profile/DorcasKomane){:target="_blank"}
-- Twitter - [@DorcasInTech](https://www.twitter.com/DorcasInTech){:target="_blank"}
+- Website - [Dorcas Komane](https://dorcas-portfolio-site.netlify.app/)
+- Frontend Mentor - [@DorcasKomane](https://www.frontendmentor.io/profile/DorcasKomane)
+- Twitter - [@DorcasInTech](https://www.twitter.com/DorcasInTech)
